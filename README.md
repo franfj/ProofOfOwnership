@@ -16,3 +16,20 @@ Two files are uploaded to the server (an original doc and an original pdf).
 - If an original file is uploaded along a wrong/deceiving hash, the server will upload the file (if it exists, the file will be uploaded, if not, the server won't do anything).
 - If a manipulated file is uploaded along with a wrong hash, the server will upload the file (it will calculate the manipulated file hash).
 - If a manipulated file is uploaded along with its hash, the server will upload the file.
+
+#### License
+
+Copyright 2018 Francisco Javier Rodrigo Ginés
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
